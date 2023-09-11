@@ -1,3 +1,18 @@
+#----------------------------------------------------------
+# Feedback Moment: Module 2
+# Analysis and report results from the performance of the algorithm of Random Forest.
+#
+# Date: 11-Sep-2023
+# Author:
+#           A01753176 Gilberto André García Gaytán
+# Evaluation Metrics:
+# This code is for the evaluation of the Random Forest technique.
+
+# Ensure that this libraries are installed:
+# pip install scikit-learn
+# pip install pandas
+# pip install matplotlib
+# pip install numpy
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
