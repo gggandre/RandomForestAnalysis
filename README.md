@@ -6,7 +6,7 @@
 ![image](https://github.com/gggandre/RandomForest/assets/84719490/8eeb21b0-c039-4bb8-9ba4-04dffb530aa5)
 
 2. Open the folder in your local environment (make sure you have Python installed, along with the libraries numpy, pandas, tkinter,sklearn,matloptlib,Pillow)
-![image](https://github.com/gggandre/RandomForest/assets/84719490/153973cd-3472-4724-b63c-0b59d46e2c56)
+![image](https://github.com/gggandre/RandomForestAnalysis/assets/84719490/f95ef4e4-598f-49e2-933f-c535a338a6f2)
 - Note: Note: If the libraries are not installed, use ```pip install pandas numpy scikit-learn matplotlib```
 
 3. Run the code with code runner or terminal
