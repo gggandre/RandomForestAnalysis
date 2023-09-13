@@ -1,5 +1,7 @@
 # RandomForestAnalysis
 
+# Link of the report: https://docs.google.com/document/d/12uMpakgoc4jD870ms2Gp16Q-jYzB4FDDULlxRbkN3Uo/edit?usp=sharing
+
 # Run code
 
 1. Clone the repo or download the .zip
